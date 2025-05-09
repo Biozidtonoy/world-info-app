@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #003366;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
